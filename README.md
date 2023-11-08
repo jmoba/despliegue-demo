@@ -1,3 +1,1 @@
 despliegue-demo
-nombre
-despliegue
